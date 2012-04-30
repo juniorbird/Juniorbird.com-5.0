@@ -1,0 +1,14 @@
+/*   
+Theme Name: Simon WP Framework
+Theme URI: http://simonwebdesign.com/simon-wordpress-framework-blank-theme/
+Description: A blank frame work using 960.gs grid system and is licensed under the <a href="http://www.opensource.org/licenses/gpl-license.php">GPL</a>.
+Author: Simon Urbina
+Author URI: http://simonwebdesign.com
+Version: 1.1.6
+Tags: light, two-columns, fixed-width
+*/
+
+@import url('reset.css');
+@import url('typography.css');
+@import url('grid.css');
+@import url('forms.css');
